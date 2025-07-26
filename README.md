@@ -1,7 +1,7 @@
 # 𝙃𝙚y, 𝙄'𝙢 _**Atharv**_
 
 
-Portfolio: ![sheeshhatharv](https://sheeshhatharv.vercel.app)
+🔗 Portfolio → [sheeshhatharv.vercel.app](https://sheeshhatharv.vercel.app)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
